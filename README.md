@@ -1,7 +1,7 @@
 # 🖖Hi!
 Meu nome é Jéssica Monteiro, sou estudante de Desenvolvimento de Software e Aplicativos Mobile em início de carreira.
 
-# 🚀 Esperiências 🛸
+# 🚀 Experiências 🛸
 
 Atualmente, estou direcionando minha energia para o desenvolvimento Front-end, área na qual estou encontrando grande identificação. Tenho me dedicado ao aprimoramento das minhas habilidades em Python, HTML, CSS e JavaScript. Quanto aos idiomas, estou completamente imerso no estudo do inglês, tanto por motivos pessoais quanto com o objetivo de crescimento profissional na área.
 
