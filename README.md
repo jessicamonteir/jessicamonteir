@@ -16,7 +16,7 @@ Ao longo de sete anos, dos meus 16 aos 23 anos, dediquei-me à área administrat
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)] (https://open.spotify.com/user/31fxpxhstij2qi5x7xupwnxxfjem?si=_EWH6H34QUG68ck3MPQWSQ)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31fxpxhstij2qi5x7xupwnxxfjem?si=_EWH6H34QUG68ck3MPQWSQ)
 
  # 📱 Redes Sociais 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9ssica-monteiro33/)
