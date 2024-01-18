@@ -3,7 +3,7 @@ Meu nome é Jéssica Monteiro, sou estudante de Desenvolvimento de Software e Ap
 
 # 🚀 Experiências 🛸
 
-Atualmente, estou direcionando minha energia para o desenvolvimento Front-end, área na qual estou encontrando grande identificação. Tenho me dedicado ao aprimoramento das minhas habilidades em Python, HTML, CSS e JavaScript.
+Atualmente, estou direcionando minha energia para o desenvolvimento Front-end, área na qual estou encontrando grande identificação. Tenho me dedicado ao aprimoramento das minhas habilidades em Python, HTML, CSS Java e JavaScript.
 
 # 👩‍💻Pilha de Tech 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
